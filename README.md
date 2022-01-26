@@ -57,6 +57,18 @@ https://nextpublishing.jp/book/14305.html
 
 https://www.amazon.co.jp/Qt5%EF%BC%8FQt6%E5%85%A5%E9%96%80-C-%E6%8A%80%E8%A1%93%E3%81%AE%E6%B3%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88NextPublishing%EF%BC%89-%E5%9D%82%E6%9C%AC-%E8%81%A1%E5%8F%B2/dp/4295600377/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1643155105&sr=8-2
 
+# 筆者紹介
+
+## Twitter
+
+[@argama147](https://twitter.com/argama147)
+
+## YouTubeチャンネル
+
+「ゼッツプログラTV」というYouTubeチャンネルでQtの情報を配信しています。
+https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg
+
+
 # 免責事項
 本サンプルプログラムにおけるスクリプト・プログラム・紹介する手法など全ての無償情報（以下、「無償プログラム等」）については、下記の通り一切の保証が無いものとしてご利用下さい。
 〇動作・性能の無保証
